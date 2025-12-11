@@ -1,0 +1,14 @@
+h1,h2,h4{color: white;background-color: black;}
+div{
+    border: 10px solid black;
+    margin: ;
+}
+ h1,p,h2{
+    text-align: center;
+    padding: 10px;
+}
+header{
+    padding: 10px;
+    text-indent: 25px;
+
+}
